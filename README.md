@@ -7,7 +7,11 @@ blockstack_searchbars is a simplifed searchbar like Dapp, based on blockstack.
 2. User is able to upload content public, private
 
 ## System Design
-![System Design](BSB.png)
+![](BSB.png)
 
 ## UI
+<<<<<<< HEAD
 ![](ui.png)
+=======
+![](ui.png)
+>>>>>>> ca717516b36b011a3715526dea6c28869e995d9b
