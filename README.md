@@ -10,4 +10,4 @@ blockstack_searchbars is a simplifed searchbar like Dapp, based on blockstack.
 ![System Design](BSB.png)
 
 ## UI
-![](V1.png)
+![](ui.png)
